@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ChallengeCricketChrips</string>
-    <string name="chrips_question">Did you Know you can determine the temperature outiside by counting the number of chrips the cricket makes ? Just count the numbers of chrips one make in 25 seconds and place that number in the box below:</string>
-    <string name="enter_chrips">NUMBER OF CHRIPS IN 25 SECONDS</string>
-    <string name="submit">Submit</string>
-</resources>
